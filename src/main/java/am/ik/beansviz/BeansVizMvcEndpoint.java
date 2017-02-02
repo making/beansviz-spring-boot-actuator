@@ -16,7 +16,6 @@ public class BeansVizMvcEndpoint extends AbstractMvcEndpoint {
 	}
 
 	@GetMapping(produces = BeansVizMvcHandler.IMAGE_SVG_VALUE)
-	@SuppressWarnings("unchecked")
 	ResponseEntity<String> beansviz(
 			@RequestParam(name = "all", defaultValue = "false") boolean all) {
 		return beansVizMvcHandler.beansviz(all);

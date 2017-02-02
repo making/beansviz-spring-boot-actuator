@@ -23,6 +23,7 @@ public class BeansVizMvcHandler {
 		this.beansEndpoint = beansEndpoint;
 	}
 
+	@SuppressWarnings("unchecked")
 	ResponseEntity<String> beansviz(boolean all) {
 		List<Object> info = beansEndpoint.invoke();
 		MutableGraph graphs = mutGraph().setDirected();
