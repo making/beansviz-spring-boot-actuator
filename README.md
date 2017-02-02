@@ -21,7 +21,7 @@ This library adds `/beansviz` endpoint to your actuator.
     <dependency>
         <groupId>am.ik.beansviz</groupId>
         <artifactId>beansviz-spring-boot-actuator</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0</version>
     </dependency>
     
     <!-- ... -->
