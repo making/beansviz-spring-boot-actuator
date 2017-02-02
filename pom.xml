@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>am.ik.beansviz</groupId>
-    <artifactId>spring-boot-actuator-beansviz</artifactId>
+    <artifactId>beansviz-spring-boot-actuator</artifactId>
     <version>0.1.0-SNAPSHOT</version>
 
 
-    <name>spring-boot-actuator-beansviz</name>
+    <name>beansviz-spring-boot-actuator</name>
     <description>Spring Boot Actuator Endpoint to visualize beans hierarchy</description>
 
     <licenses>
@@ -20,11 +20,11 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/making/spring-boot-actuator-beansviz</url>
-        <connection>scm:git:git@github.com:making/spring-boot-actuator-beansviz.git</connection>
-        <developerConnection>scm:git:git@github.com:making/spring-boot-actuator-beansviz.git</developerConnection>
+        <url>https://github.com/making/beansviz-spring-boot-actuator</url>
+        <connection>scm:git:git@github.com:making/beansviz-spring-boot-actuator.git</connection>
+        <developerConnection>scm:git:git@github.com:making/beansviz-spring-boot-actuator.git</developerConnection>
     </scm>
-    <url>https://github.com/making/spring-boot-actuator-beansviz</url>
+    <url>https://github.com/making/beansviz-spring-boot-actuator</url>
 
     <developers>
         <developer>
