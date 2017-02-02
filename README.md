@@ -2,6 +2,12 @@
 
 This library adds `/beansviz` endpoint to your actuator.
 
+![image](https://cloud.githubusercontent.com/assets/106908/22554428/539f9f5c-e9a3-11e6-9f4e-ee4b46f080ce.png)
+
+
+* [Demo](https://demo-beansviz.cfapps.io/beansviz)
+* [Demo (All Beans)](https://demo-beansviz.cfapps.io/beansviz?all=true)
+
 ### Maven dependency
     
 
@@ -35,6 +41,3 @@ Add the following repository to use snapshots.
     </snapshots>
 </repository>
 ```
-
-* [Demo](https://demo-beansviz.cfapps.io/beansviz)
-* [Demo (All Beans)](https://demo-beansviz.cfapps.io/beansviz?all=true)
