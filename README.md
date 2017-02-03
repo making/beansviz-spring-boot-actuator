@@ -8,6 +8,9 @@ This library adds `/beansviz` endpoint to your actuator.
 * [Demo](https://demo-beansviz.cfapps.io/beansviz)
 * [Demo (All Beans)](https://demo-beansviz.cfapps.io/beansviz?all=true)
 
+
+Spring Boot 1.4+ and Java 8 are required.
+
 ### Maven dependency
     
 
